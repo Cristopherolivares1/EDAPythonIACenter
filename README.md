@@ -1,2 +1,1 @@
-# Project_DS_Python
-Project DS Python V2
+# Project Exploratory data analysis using Python
